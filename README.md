@@ -4,17 +4,18 @@ and also well Experienced with all stages of the development cycle for dynamic w
 
 ## Contact and Info
 - 🔭 I’m currently working on:
-* Paradise Bot List
+Paradise Bot List
 - 🌱 I’m currently learning:
-* TypeScript & Python
+1. TypeScript
+2. Python
 - 💰 Commissions Status:
-* Open
+Open | Accepting commissions
 - 🤔 I’m looking for help with:
-* Nothing at the moment.
+ Nothing at the moment.
 - 📫 How to reach me: 
-* Twitter: @TheRealToxicDev
-* Discord: ☣ Tσxιƈ Dҽʋ ☣#7308 
+Twitter: @TheRealToxicDev
+Discord: ☣ Tσxιƈ Dҽʋ ☣#7308 
 - 😄 Pronouns: 
-* Him/He
+Him/He
 - ⚡ Fun fact:
-* JavaScript was Founded in December 4 1995 by: Brendan Eich initially, plus other key contributors to the ECMAScript specification
+JavaScript was Founded in December 4 1995 by: Brendan Eich initially, plus other key contributors to the ECMAScript specification
