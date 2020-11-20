@@ -3,7 +3,7 @@ I'm **Toxic Dev** but most people just call me **Tyler**, I am a Senior Software
 and also well Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including JavaScript, Node.JS, Angular JS, React/Redux, C++, C#, Ruby, Python Discord.NET, Discord.js and MongoDB. I also have a Strong background in project management and customer relations.
 
 ## Contact and Info
-- 🔭 I’m currently working on: 
+- 🔭 I’m currently working on:  
 [Paradise Bot List](https://paradisebots.net)  
 Grim Reaper Bot 2.0
 
