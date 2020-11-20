@@ -13,8 +13,8 @@ and also well Experienced with all stages of the development cycle for dynamic w
   1. Open | Accepting commissions
 - 🤔 I’m looking for help with: Nothing at the moment.
 - 📫 How to reach me: 
-1. Twitter: @TheRealToxicDev
-2. Discord: ☣ Tσxιƈ Dҽʋ ☣#7308 
+1. [Twitter](https://twitter.com/TheRealToxicDev)
+2. [Discord:☣ Tσxιƈ Dҽʋ ☣#7308](https://discord.gg/MsWT8awvBZ)
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact(s): 
-1. JavaScript was Founded in December 4 1995 by: Brendan Eich initially, plus other key contributors to the ECMAScript specification
+1. JavaScript was Founded on December 4 1995 by: Brendan Eich initially, plus other key contributors to the ECMAScript specification
