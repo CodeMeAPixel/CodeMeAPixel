@@ -4,8 +4,8 @@ and also well Experienced with all stages of the development cycle for dynamic w
 
 ## Contact and Info
 - 🔭 I’m currently working on: 
-1. [Paradise Bot List](https://paradisebots.net)  
-2. Grim Reaper Bot 2.0
+[Paradise Bot List](https://paradisebots.net)  
+Grim Reaper Bot 2.0
 
 ---
 
