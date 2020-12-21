@@ -8,7 +8,9 @@ and also well Experienced with all stages of the development cycle for dynamic w
 --- 
 
 ## Info
-- 👨‍💻 I’m currently working on:  
+
+### Current Project(s)
+- 👨‍💻:  
 1. [Paradise Bot List](https://paradisebots.net)  
 2. Grim Reaper Bot 2.0
 
