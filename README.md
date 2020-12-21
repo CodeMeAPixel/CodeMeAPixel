@@ -13,6 +13,7 @@ and also well Experienced with all stages of the development cycle for dynamic w
 - 👨‍💻:  
 1. [Paradise Bot List](https://paradisebots.net)  
 2. Grim Reaper Bot 2.0
+3. Downtime Detector
 
 ---
 
