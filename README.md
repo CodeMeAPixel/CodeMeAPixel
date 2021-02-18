@@ -5,18 +5,6 @@ and also well Experienced with all stages of the development cycle for dynamic w
 ---
 
 ## GitHub Statistics
-<details>
-  <summary>
-    :bar_chart: Click to see my GitHub Statistics
-  </summary>
-  <p align="center">
-    <br>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheRealToxicDev&count_private=true&show_icons=true&theme=dracula" />
-    <br>
-    <img alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealToxicDev&layout=compact&theme=dracula" />
-  </p>
-</details>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealToxicDev&show_icons=true&theme=dracula" alt="Toxic Dev" height="200"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealToxicDev&hide=lua&theme=dracula" alt="Toxic Dev's github stats"/>
 <div><img src="https://github-profile-trophy.vercel.app/?username=TheRealToxicDev&theme=dracula" width="1200"></div></p>
