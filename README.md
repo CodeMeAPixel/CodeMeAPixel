@@ -50,7 +50,7 @@ and also well Experienced with all stages of the development cycle for dynamic w
 ---
 
 ## Contact Info
-- 📫: 
+- 📫: `toxic.dev09@gmail.com`
 1. [Twitter](https://twitter.com/TheRealToxicDev)
 2. [Discord](https://discordapp.com/users/510065483693817867)
 
