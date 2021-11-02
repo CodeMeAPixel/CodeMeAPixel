@@ -42,9 +42,10 @@ I also have a Strong background in project management and customer relations.
 
 ### Current Project(s)
 - 👨‍💻:  
-1. [Paradise Bot List](https://paradisebots.net)  
+1. [Paradise Bot List](https://paradisebots.net) (SOLD)  
 2. [Infinity Bot List](https://infinitybots.xyz)
-3. Downtime Detector
+3. Downtime Detector Discord Bot (Discontinued)
+4. [Skynet Discord Bot](https://skynet.toxicdev.me)
 
 ---
 
