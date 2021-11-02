@@ -71,4 +71,7 @@ I also have a Strong background in project management and customer relations.
 
 ## Fun Facts
 - ⚡ Fact(s): 
-1. JavaScript was Founded on December 4 1995 by: Brendan Eich initially, plus other key contributors to the ECMAScript specification
+1. Computer Programming was instrumental in helping end World War II
+Alan Turing was another incredibly famous mathematician who was also born in England, on June 23, 1912. In the computer science community, he is predominantly recognized as the father of modern-day computer science.
+
+However, alongside this lofty title, he was also responsible for helping the allies bring World War II to a close. During the height of the large-scale conflict, he would use his skills to crack the Enigma machine, a cipher utilized by the Nazis to protect their military communications.
