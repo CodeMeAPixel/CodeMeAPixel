@@ -51,8 +51,8 @@ I also have a Strong background in project management and customer relations.
 
 ## Current Study's
   - 👨‍🏫:
-1. TypeScript
-2. Python
+1. PHP
+2. Ruby
 
 ---
 
