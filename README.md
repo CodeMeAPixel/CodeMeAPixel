@@ -43,9 +43,9 @@ I also have a Strong background in project management and customer relations.
 ### My Project(s)
 - 👨‍💻:  
 1. [Infinity Bot List](https://infinitybots.xyz)
-2. [Paradise Bot List](https://paradisebots.net) (SOLD)  
-3. [Downtime Detector Discord Bot](https://downtime.supportbot.site) - (Discontinued)
-4. [Skynet Discord Bot](https://skynet.toxicdev.me) - (Offline)
+2. [Review Bots](https://reviewbots.xyz) (SOLD)  
+3. [Tox Mod](https://toxmod.xyz)
+4. [Skynet Discord Bot](https://skynet.toxicdev.me)
 
 ---
 
