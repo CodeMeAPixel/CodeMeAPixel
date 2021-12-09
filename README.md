@@ -19,7 +19,7 @@
 
 <hr />
 
-<h2>Pronouns</h2>
+<h2>😄 Pronouns</h2>
 
 - He/Him
 - Toxic
@@ -83,7 +83,7 @@
 
 <hr />
 
-<h2>Current Studys</h2>
+<h2>👨‍🏫 Current Studys</h2>
 
 - <img src="https://img.shields.io/badge/Ruby-0C0032?style=for-the-badge&logo=Ruby" />
 - <img src="https://img.shields.io/badge/Gatsby-0C0032?style=for-the-badge&logo=Gatsby" />
