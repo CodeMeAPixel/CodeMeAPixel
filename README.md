@@ -73,7 +73,7 @@
 <hr />
 
 <h3>Current Studys</h3>
-<p>
+<p align="center">
   - <img src="https://img.shields.io/badge/Ruby-0C0032?style=for-the-badge&logo=Ruby" />
   <br />
   - <img src="https://img.shields.io/badge/Liquid-0C0032?style=for-the-badge&logo=Liquid" />
