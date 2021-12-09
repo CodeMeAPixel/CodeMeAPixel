@@ -114,6 +114,10 @@
 &nbsp;
 <a href="https://github.com/TheRealToxicDev" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
 &nbsp;
+<a href="https://www.buymeacoffee.com/TheRealToxicDev" target="_blank"><img alt="Coffee" title="Coffee" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/kofi.svg"></a>
+&nbsp;
+<a href="https://twitch.tv/therealtoxicdev" target="_blank"><img alt="Twitch" title="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
+&nbsp;
 </p>
 
 <hr />
