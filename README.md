@@ -18,7 +18,8 @@
   and also well Experienced with all stages of the development cycle for dynamic web projects. 
 </p>
 
----
+<hr />
+
 <h1>🛠 <b>My Skillset</b></h1>
 <details open>
 <summary>Click to view my Skillset!</summary>
@@ -42,7 +43,8 @@
   <img src="https://img.shields.io/badge/Python-0C0032?style=for-the-badge&logo=Python" />
  </p>
 </details>
-<br><br><hr>
+
+<hr />
 
 ## GitHub Statistics
 <details>
