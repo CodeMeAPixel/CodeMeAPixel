@@ -75,7 +75,7 @@
 <h3>Current Studys</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Ruby-0C0032?style=for-the-badge&logo=Ruby" />
-  <img src="https://img.shields.io/badge/Vue-0C0032?style=for-the-badge&logo=Vue" />
+  <img src="https://img.shields.io/badge/Vue-0C0032?style=for-the-badge&logo=Liquid.js" />
   <img src="https://img.shields.io/badge/Fastify-0C0032?style=for-the-badge&logo=Fastify" />
-  <img src="https://img.shields.io/badge/Vue-0C0032?style=for-the-badge&logo=Vue" />
+  <img src="https://img.shields.io/badge/Vue-0C0032?style=for-the-badge&logo=Vue.js" />
 </p>
