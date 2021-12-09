@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/Fastify-0C0032?style=for-the-badge&logo=Fastify" />
   <img src="https://img.shields.io/badge/Gatsby-0C0032?style=for-the-badge&logo=Gatsby" />
   <img src="https://img.shields.io/badge/C-0C0032?style=for-the-badge&logo=C" />
+  <img src="https://img.shields.io/badge/LUA-0C0032?style=for-the-badge&logo=LUA" />
  </p>
 </details>
 
