@@ -55,6 +55,8 @@
   <img src="https://img.shields.io/badge/LUA-0C0032?style=for-the-badge&logo=LUA" />
   <img src="https://img.shields.io/badge/PHP-0C0032?style=for-the-badge&logo=PHP" />
   <img src="https://img.shields.io/badge/Java-0C0032?style=for-the-badge&logo=Java" />
+  <img src="https://img.shields.io/badge/Heroku-0C0032?style=for-the-badge&logo=Heroku" />
+  <img src="https://img.shields.io/badge/Netlify-0C0032?style=for-the-badge&logo=Netlify" />
  </p>
 </details>
 
