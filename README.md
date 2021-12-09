@@ -1,6 +1,19 @@
 # Hello! 👋
 I'm **Toxic Dev** but most people just call me **Tyler**, 
 
+<p align="center">
+  <a href="https://github.com/TheRealToxicDev">
+    <img src="https://komarev.com/ghpvc/?username=TheRealToxicDev&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
+  </a>
+  <a href="https://discord.com/users/510065483693817867">
+    <img src="https://img.shields.io/badge/Toxic Dev%235936-%237289da?logo=discord&style=flat-square" alt="Discord: Toxic Dev#5936"/>
+  </a>
+  <a href="https://twitter.com/TheRealToxicDev">
+    <img src="https://img.shields.io/badge/Twitter-TheRealToxicDev-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: TheRealToxicDev"/>
+  </a>
+</p>
+
+
 I am a Senior Software Developer specializing in Discord Bot Development. A Web Developer specializing in front end development. 
 and also well Experienced with all stages of the development cycle for dynamic web projects. 
 
