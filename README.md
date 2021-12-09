@@ -57,7 +57,6 @@
   <img src="https://img.shields.io/badge/Python-0C0032?style=for-the-badge&logo=Python" />
   <img src="https://img.shields.io/badge/Fastify-0C0032?style=for-the-badge&logo=Fastify" />
   <img src="https://img.shields.io/badge/Express-0C0032?style=for-the-badge&logo=Express" />
-  <img src="https://img.shields.io/badge/EJS-0C0032?style=for-the-badge&logo=Ejs" />
   <img src="https://img.shields.io/badge/Gatsby-0C0032?style=for-the-badge&logo=Gatsby" />
   <img src="https://img.shields.io/badge/C-0C0032?style=for-the-badge&logo=C" />
   <img src="https://img.shields.io/badge/C++-0C0032?style=for-the-badge&logo=C" />
@@ -71,6 +70,8 @@
   <img src="https://img.shields.io/badge/Railway-0C0032?style=for-the-badge&logo=Railway" />
   <img src="https://img.shields.io/badge/Blender-0C0032?style=for-the-badge&logo=Blender" />
   <img src="https://img.shields.io/badge/Google%20Chrome-0C0032?style=for-the-badge&logo=Google%20Chrome" />
+  <img src="https://img.shields.io/badge/Youtube%20API-0C0032?style=for-the-badge&logo=Youtube" />
+  <img src="https://img.shields.io/badge/Lavalink-0C0032?style=for-the-badge&logo=Lavalink" />
  </p>
 </details>
 
