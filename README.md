@@ -63,7 +63,7 @@
 
 <hr />
 
-<h3 align="center">My Projects</h3>
+<h3>My Projects</h3>
 <p>
-  <code>💻</code> I am currently working on: <a href="https://infinitybotlist.com">Infinity Bot List</a> and <a href="https://reviewbots.xyz">Review Bots</a>
+  - <code>💻</code> I am currently working on: <a href="https://infinitybotlist.com">Infinity Bot List</a> and <a href="https://reviewbots.xyz">Review Bots</a>
 </p>
