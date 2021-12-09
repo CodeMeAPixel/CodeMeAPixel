@@ -63,7 +63,7 @@
 
 <hr />
 
-<h3>My Projects</h3>
+<h3>Active Projects</h3>
 <p>
   - <code>💻</code> I am currently working on: <a href="https://infinitybotlist.com">♾️ Infinity Bot List</a> and <a href="https://reviewbots.xyz">🤖 Review Bots</a>
   <br />
@@ -72,9 +72,9 @@
 
 <hr />
 
-<h3>Discord Profile</h3>
-<p align="center">
-  <a href="https://discord.com/users/510065483693817867">
-    <img src="https://lanyard-profile-readme.vercel.app/api/510065483693817867?bg=0a0f16" alt="My Discord Profile"/>
-  </a>
+<h3>Current Studys</h3>
+<p>
+  - <img src="https://img.shields.io/badge/Ruby-0C0032?style=for-the-badge&logo=Ruby" />
+  <br />
+  - <img src="https://img.shields.io/badge/Liquid-0C0032?style=for-the-badge&logo=Liquid" />
 </p>
