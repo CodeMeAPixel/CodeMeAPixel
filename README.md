@@ -20,7 +20,7 @@
 
 <hr />
 
-<h1>🛠 <b>My Skillset</b></h1>
+<h2>🛠 <b>My Skillset</b></h2>
 <details open>
 <summary>Click to view my Skillset!</summary>
  <p align="center">
@@ -46,7 +46,7 @@
 
 <hr />
 
-## GitHub Statistics
+<h2>GitHub Stats</h2>
 <details>
   <summary>
     :bar_chart: Click to see my GitHub Statistics
@@ -58,42 +58,14 @@
   </p>
 </details>
 
---- 
+<hr />
 
-## Info
-
-### My Project(s)
-- 👨‍💻:  
-1. [Infinity Bot List](https://infinitybots.xyz)
-2. [Review Bots](https://reviewbots.xyz) 
-3. [Tox Mod](https://toxmod.xyz)
-4. [Skynet](https://skynet.toxicdev.me)
-
----
-
-## Current Study's
-  - 👨‍🏫:
-1. PHP
-2. Ruby
-
----
-
-## Contact Info
-- 📫: `toxic.dev09@gmail.com`
-1. [Twitter](https://twitter.com/TheRealToxicDev)
-2. [Discord](https://discordapp.com/users/510065483693817867)
-
----
-
-- 😄 Pronouns: 
-1. Him/He
-2. Toxic Developer
-
----
-
-## Fun Facts
-- ⚡ Fact(s): 
-1. Computer Programming was instrumental in helping end World War II
-Alan Turing was another incredibly famous mathematician who was also born in England, on June 23, 1912. In the computer science community, he is predominantly recognized as the father of modern-day computer science.
-
-However, alongside this lofty title, he was also responsible for helping the allies bring World War II to a close. During the height of the large-scale conflict, he would use his skills to crack the Enigma machine, a cipher utilized by the Nazis to protect their military communications.
+<h3>My Projects</h3>
+<p align="center">
+  <code>💻</code> I am currently working on: <a href=""> a></a>
+  `🛰️` I am also a **[PreMiD Presence Developer](https://premid.app/users/567885938160697377)**.
+  `📰` Website Moderator @ **[Caards](https://caards.me)**.
+  `🌍` My Personal Website can be found @ **[anaxes.codes](https://anaxes.codes)**.
+  `📨` You can reach me via **[Discord](https://discord.com/users/567885938160697377)** & **[Twitter](https://twitter.com/DiscordAnaxes)**.
+  `⭐` My goal for 2021 is to contribute to more open source projects.
+</p>
