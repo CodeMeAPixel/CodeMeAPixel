@@ -19,9 +19,9 @@
 </p>
 
 ---
-
+<h1>🛠 <b>My Skillset</b></h1>
 <details open>
-<summary>🛠 <b>My Skillset</b></summary>
+<summary>Click to view my Skillset!</summary>
  <p align="center">
   <img src="https://img.shields.io/badge/Node.JS-0C0032?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/-HTML5-0C0032?style=for-the-badge&logo=HTML5" />
