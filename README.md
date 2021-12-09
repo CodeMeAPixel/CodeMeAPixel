@@ -112,6 +112,8 @@
 &nbsp;
 <a href="https://infinitybotlist.com" target="_blank"><img alt="Infinity" title="Infinity" height="32" width="32" src="https://cdn.infinitybots.xyz/images/png/Infinity5.png"></a>
 &nbsp;
+<a href="https://github.com/TheRealToxicDev" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+&nbsp;
 </p>
 
 <hr />
