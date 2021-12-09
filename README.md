@@ -48,8 +48,9 @@
   <img src="https://img.shields.io/badge/MongoDB-0C0032?style=for-the-badge&logo=Mongodb" />
   <img src="https://img.shields.io/badge/Photoshop-0C0032?style=for-the-badge&logo=Adobe%20Photoshop" />
   <img src="https://img.shields.io/badge/After%20Effects-0C0032?style=for-the-badge&logo=Adobe%20After%20Effects" />
-  <img src="https://img.shields.io/badge/Premier-0C0032?style=for-the-badge&logo=Adobe%20Premier" />
   <img src="https://img.shields.io/badge/Windows-0C0032?style=for-the-badge&logo=Windows" />
+  <img src="https://img.shields.io/badge/Linux-0C0032?style=for-the-badge&logo=Linux" />
+  <img src="https://img.shields.io/badge/Debian-0C0032?style=for-the-badge&logo=Debian" />
   <img src="https://img.shields.io/badge/Python-0C0032?style=for-the-badge&logo=Python" />
   <img src="https://img.shields.io/badge/Fastify-0C0032?style=for-the-badge&logo=Fastify" />
   <img src="https://img.shields.io/badge/Gatsby-0C0032?style=for-the-badge&logo=Gatsby" />
