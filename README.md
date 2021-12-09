@@ -57,6 +57,8 @@
   <img src="https://img.shields.io/badge/Java-0C0032?style=for-the-badge&logo=Java" />
   <img src="https://img.shields.io/badge/Heroku-0C0032?style=for-the-badge&logo=Heroku" />
   <img src="https://img.shields.io/badge/Netlify-0C0032?style=for-the-badge&logo=Netlify" />
+  <img src="https://img.shields.io/badge/Vercel-0C0032?style=for-the-badge&logo=Vercel" />
+  <img src="https://img.shields.io/badge/Railway-0C0032?style=for-the-badge&logo=Railway" />
  </p>
 </details>
 
