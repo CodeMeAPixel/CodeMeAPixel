@@ -73,6 +73,7 @@
   <img src="https://img.shields.io/badge/Youtube%20API-0C0032?style=for-the-badge&logo=Youtube" />
   <img src="https://img.shields.io/badge/Spotify%20API-0C0032?style=for-the-badge&logo=Spotify" />
   <img src="https://img.shields.io/badge/SoundCloud%20API-0C0032?style=for-the-badge&logo=Soundcloud" />
+  <img src="https://img.shields.io/badge/Deezer%20API-0C0032?style=for-the-badge&logo=Deezer" />
  </p>
 </details>
 
