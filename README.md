@@ -104,6 +104,8 @@
 
 <h2>📫 Contact Me</h2>
 <p>
+<a href="mailto:toxic.dev09@gmail.com" target="_blank"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png"></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/toxic-dev-67b983207" target="_blank"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 &nbsp;
 <a href="https://twitter.com/TheRealToxicDev" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
