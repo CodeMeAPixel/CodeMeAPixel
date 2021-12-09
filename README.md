@@ -20,7 +20,7 @@
 
 <hr />
 
-<h2 align="center">🛠 <b>My Skillset</b></h2>
+<h2>🛠 <b>My Skillset</b></h2>
 <details open>
 <summary>Click to view my Skillset!</summary>
  <p align="center">
@@ -46,7 +46,7 @@
 
 <hr />
 
-<h2 align="center">GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 <details>
   <summary>
     :bar_chart: Click to see my GitHub Statistics
