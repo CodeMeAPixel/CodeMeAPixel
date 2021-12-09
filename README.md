@@ -37,7 +37,7 @@ I also have a Strong background in project management and customer relations.
   <img src="https://img.shields.io/badge/React-0C0032?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Font%20Awesome-0C0032?style=for-the-badge&logo=Font%20Awesome" />
   <img src="https://img.shields.io/badge/Github-0C0032?style=for-the-badge&logo=Github" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0C0032?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/NPM-0C0032?style=for-the-badge&logo=npm" />
   <img src="https://img.shields.io/badge/MongoDB-0C0032?style=for-the-badge&logo=Mongodb" />
   <img src="https://img.shields.io/badge/Photoshop-0C0032?style=for-the-badge&logo=Adobe%20Photoshop" />
