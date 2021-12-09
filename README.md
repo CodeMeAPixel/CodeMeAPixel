@@ -57,10 +57,10 @@
 
 <hr />
 
-<h2>GitHub Stats</h2>
+<h2>:bar_chart: GitHub Stats</h2>
 <details>
   <summary>
-    :bar_chart: Click to see my GitHub Statistics
+    Click to see my GitHub Statistics
   </summary>
     <p align="center">
     &nbsp;
@@ -74,7 +74,7 @@
 
 <hr />
 
-<h3>👨‍ Active Projects</h3>
+<h3>👨‍💻 Active Projects</h3>
 <p>
   - <code>💻</code> I am currently working on: <a href="https://infinitybotlist.com">♾️ Infinity Bot List</a> and <a href="https://reviewbots.xyz">🤖 Review Bots</a>
   <br />
