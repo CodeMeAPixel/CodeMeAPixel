@@ -92,16 +92,12 @@
 
 <hr />
 
-<h2>⚡ Fun Facts</h2>
-1. <code>
+<h2>⚡ Fun Fact</h2>
+<code>
   In some ways, programming is like painting. 
   You start with a blank canvas and certain basic raw materials. 
   You use a combination of science, art, and craft to determine what to do with them.
 </code>
-<br />
-2. <code>
-    Testing leads to failure, and failure leads to understanding.
-  </code>
 
 <hr />
 
