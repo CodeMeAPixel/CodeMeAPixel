@@ -41,6 +41,9 @@
   <img src="https://img.shields.io/badge/Photoshop-0C0032?style=for-the-badge&logo=Adobe%20Photoshop" />
   <img src="https://img.shields.io/badge/Windows-0C0032?style=for-the-badge&logo=Windows" />
   <img src="https://img.shields.io/badge/Python-0C0032?style=for-the-badge&logo=Python" />
+  <img src="https://img.shields.io/badge/Fastify-0C0032?style=for-the-badge&logo=Fastify" />
+  <img src="https://img.shields.io/badge/Gatsby-0C0032?style=for-the-badge&logo=Gatsby" />
+  <img src="https://img.shields.io/badge/C-0C0032?style=for-the-badge&logo=C" />
  </p>
 </details>
 
@@ -72,7 +75,7 @@
 
 <hr />
 
-<h3>Current Studys</h3>
+<h2>Current Studys</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Ruby-0C0032?style=for-the-badge&logo=Ruby" />
   <img src="https://img.shields.io/badge/Gatsby-0C0032?style=for-the-badge&logo=Gatsby" />
