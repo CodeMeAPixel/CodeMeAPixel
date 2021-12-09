@@ -19,6 +19,15 @@
 
 <hr />
 
+<h2>Pronouns</h2>
+
+- He/Him
+- Toxic
+- Developer
+
+
+<hr />
+
 <h2>🛠 <b>My Skillset</b></h2>
 <details>
 <summary>Click to view my Skillset!</summary>
@@ -81,3 +90,9 @@
 - <img src="https://img.shields.io/badge/Fastify-0C0032?style=for-the-badge&logo=Fastify" />
 - <img src="https://img.shields.io/badge/Vue-0C0032?style=for-the-badge&logo=Vue.js" />
 
+<hr />
+
+<h2>Contact Info</h2>
+
+
+<hr />
