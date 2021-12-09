@@ -34,7 +34,7 @@
  <p align="center">
   <img src="https://img.shields.io/badge/Node.JS-0C0032?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Next.JS-0C0032?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/-HTML5-0C0032?style=for-the-badge&logo=HTML5" />
+  <img src="https://img.shields.io/badge/-HTML%205-0C0032?style=for-the-badge&logo=HTML5" />
   <img src="https://img.shields.io/badge/CSS%203-0C0032?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/Javascript-0C0032?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Typescript-0C0032?style=for-the-badge&logo=typescript" />
