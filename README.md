@@ -20,7 +20,7 @@
 
 <hr />
 
-<h2>🛠 <b>My Skillset</b></h2>
+<h2 align="center">🛠 <b>My Skillset</b></h2>
 <details open>
 <summary>Click to view my Skillset!</summary>
  <p align="center">
@@ -46,21 +46,24 @@
 
 <hr />
 
-<h2>GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 <details>
   <summary>
     :bar_chart: Click to see my GitHub Statistics
   </summary>
-  <p align="center">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealToxicDev&show_icons=true&theme=dracula" alt="Toxic Dev" height="200"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealToxicDev&hide=lua&theme=dracula" alt="Toxic Dev's github stats"/>
-<div><img src="https://github-profile-trophy.vercel.app/?username=TheRealToxicDev&theme=dracula" width="1200"></div>
+    <p align="center">
+    &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealToxicDev&show_icons=true&theme=dracula" alt="Toxic Dev" height="200"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealToxicDev&hide=lua&theme=dracula" alt="Toxic Dev's github stats"/>
+   <div>
+     <img src="https://github-profile-trophy.vercel.app/?username=TheRealToxicDev&theme=dracula" width="1200">
+   </div>
   </p>
 </details>
 
 <hr />
 
-<h3>My Projects</h3>
-<p align="center">
+<h3 align="center">My Projects</h3>
+<p>
   <code>💻</code> I am currently working on: <a href="https://infinitybotlist.com">Infinity Bot List</a> and <a href="https://reviewbots.xyz">Review Bots</a>
 </p>
