@@ -71,7 +71,8 @@
   <img src="https://img.shields.io/badge/Blender-0C0032?style=for-the-badge&logo=Blender" />
   <img src="https://img.shields.io/badge/Google%20Chrome-0C0032?style=for-the-badge&logo=Google%20Chrome" />
   <img src="https://img.shields.io/badge/Youtube%20API-0C0032?style=for-the-badge&logo=Youtube" />
-  <img src="https://img.shields.io/badge/Lavalink-0C0032?style=for-the-badge&logo=Lavalinkjs" />
+  <img src="https://img.shields.io/badge/Spotify%20API-0C0032?style=for-the-badge&logo=Spotify" />
+  <img src="https://img.shields.io/badge/SoundCloud%20API-0C0032?style=for-the-badge&logo=Soundcloud" />
  </p>
 </details>
 
