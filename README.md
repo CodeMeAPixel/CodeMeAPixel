@@ -65,6 +65,7 @@
 
 <h3>My Projects</h3>
 <p>
-  * <code>💻</code> I am currently working on: <a href="https://infinitybotlist.com">♾️ Infinity Bot List</a> and <a href="https://reviewbots.xyz">🤖 Review Bots</a>
-  * <code>👨‍💻</code> I am currently helping develop: <a href="https://dscjobs.org">DscJobs</a> and <a href="https://paradisebots.net">Paradise Bots</a>
+  - <code>💻</code> I am currently working on: <a href="https://infinitybotlist.com">♾️ Infinity Bot List</a> and <a href="https://reviewbots.xyz">🤖 Review Bots</a>
+  <br />
+  - <code>👨‍💻</code> I am currently helping develop: <a href="https://dscjobs.org">DscJobs</a> and <a href="https://paradisebots.net">Paradise Bots</a>
 </p>
