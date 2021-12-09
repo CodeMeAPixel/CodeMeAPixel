@@ -92,7 +92,17 @@
 
 <hr />
 
-<h2>Contact Info</h2>
+<h2>⚡ Fun Facts</h2>
+<code>
+  In some ways, programming is like painting. 
+  You start with a blank canvas and certain basic raw materials. 
+  You use a combination of science, art, and craft to determine what to do with them.
+</code>
+
+<hr />
+
+
+<h2>📫 Contact Info</h2>
 
 
 <hr />
