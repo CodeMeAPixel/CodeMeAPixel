@@ -76,11 +76,9 @@
 <hr />
 
 <h2>Current Studys</h2>
+
 - <img src="https://img.shields.io/badge/Ruby-0C0032?style=for-the-badge&logo=Ruby" />
-
 - <img src="https://img.shields.io/badge/Gatsby-0C0032?style=for-the-badge&logo=Gatsby" />
-
 - <img src="https://img.shields.io/badge/Fastify-0C0032?style=for-the-badge&logo=Fastify" />
-
 - <img src="https://img.shields.io/badge/Vue-0C0032?style=for-the-badge&logo=Vue.js" />
 
