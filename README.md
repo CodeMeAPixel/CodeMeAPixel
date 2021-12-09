@@ -66,6 +66,7 @@
   <img src="https://img.shields.io/badge/Vercel-0C0032?style=for-the-badge&logo=Vercel" />
   <img src="https://img.shields.io/badge/Railway-0C0032?style=for-the-badge&logo=Railway" />
   <img src="https://img.shields.io/badge/Blender-0C0032?style=for-the-badge&logo=Blender" />
+  <img src="https://img.shields.io/badge/Google%20Chrome-0C0032?style=for-the-badge&logo=Google%20Chrome" />
  </p>
 </details>
 
