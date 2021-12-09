@@ -21,7 +21,7 @@
 <hr />
 
 <h2>🛠 <b>My Skillset</b></h2>
-<details open>
+<details>
 <summary>Click to view my Skillset!</summary>
  <p align="center">
   <img src="https://img.shields.io/badge/Node.JS-0C0032?style=for-the-badge&logo=node.js" />
