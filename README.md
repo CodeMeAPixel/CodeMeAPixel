@@ -62,10 +62,5 @@
 
 <h3>My Projects</h3>
 <p align="center">
-  <code>💻</code> I am currently working on: <a href=""> a></a>
-  `🛰️` I am also a **[PreMiD Presence Developer](https://premid.app/users/567885938160697377)**.
-  `📰` Website Moderator @ **[Caards](https://caards.me)**.
-  `🌍` My Personal Website can be found @ **[anaxes.codes](https://anaxes.codes)**.
-  `📨` You can reach me via **[Discord](https://discord.com/users/567885938160697377)** & **[Twitter](https://twitter.com/DiscordAnaxes)**.
-  `⭐` My goal for 2021 is to contribute to more open source projects.
+  <code>💻</code> I am currently working on: <a href="https://infinitybotlist.com">Infinity Bot List</a> and <a href="https://reviewbots.xyz">Review Bots</a>
 </p>
