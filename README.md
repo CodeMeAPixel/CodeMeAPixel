@@ -1,5 +1,9 @@
 <h1 align="center">Hello! 👋</h1>
 <h3 align="center">I'm <strong>Toxic Dev</strong> but most people just call me <strong>Tyler</strong>, </h3>
+<p align="center">
+  I am a Senior Software Developer specializing in Discord Bot Development. A Web Developer specializing in front end development. 
+  and also well Experienced with all stages of the development cycle for dynamic web projects. 
+</p>
 
 <p align="center">
   <a href="https://github.com/TheRealToxicDev">
@@ -11,11 +15,6 @@
   <a href="https://twitter.com/TheRealToxicDev">
     <img src="https://img.shields.io/badge/Twitter-TheRealToxicDev-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: TheRealToxicDev"/>
   </a>
-</p>
-
-<p align="center">
-  I am a Senior Software Developer specializing in Discord Bot Development. A Web Developer specializing in front end development. 
-  and also well Experienced with all stages of the development cycle for dynamic web projects. 
 </p>
 
 <hr />
