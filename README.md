@@ -11,16 +11,25 @@ I also have a Strong background in project management and customer relations.
 ---
 
 ## Languages and Tools
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
+<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=Tailwind%20CSS" />
+<img src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=Nuxt.js" />
+<img src="https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=Vue.js" />
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Font%20Awesome-black?style=for-the-badge&logo=Font%20Awesome" />
+<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm" />
+<img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=Mongodb" />
+<img src="https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop" />
+<img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" />
+<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=C++" />
+<img src="https://img.shields.io/badge/C#-black?style=for-the-badge&logo=C#" />
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python" />
 
 <br><br><hr>
 
