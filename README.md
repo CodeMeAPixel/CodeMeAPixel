@@ -102,7 +102,7 @@
 <hr />
 
 
-<h2 align="center">📫 Contact Me</h2>
+<h2>📫 Contact Me</h2>
 <p>
 <a href="https://twitter.com/TheRealToxicDev" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
 &nbsp;
