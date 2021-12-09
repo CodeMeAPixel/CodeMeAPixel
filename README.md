@@ -110,9 +110,12 @@
 &nbsp;
 <a href="https://infinitybotlist.com" target="_blank"><img alt="Infinity" title="Infinity" height="32" width="32" src="https://cdn.infinitybots.xyz/images/png/Infinity5.png"></a>
 &nbsp;
-  
-
 </p>
 
-
 <hr />
+
+<p align="center">
+  <a href="https://discord.com/users/510065483693817867">
+    <img src="https://lanyard-profile-readme.vercel.app/api/510065483693817867?bg=0a0f16" alt="Discord Profile"/>
+  </a>
+</p>
