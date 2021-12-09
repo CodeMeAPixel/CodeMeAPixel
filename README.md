@@ -27,22 +27,22 @@ I also have a Strong background in project management and customer relations.
 <summary>🛠 <b>My Skillset</b></summary>
  <p align="center">
   <img src="https://img.shields.io/badge/Node.JS-0C0032?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
-  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=Tailwind%20CSS" />
-  <img src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=Nuxt.js" />
-  <img src="https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=Vue.js" />
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Font%20Awesome-black?style=for-the-badge&logo=Font%20Awesome" />
-  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github" />
+  <img src="https://img.shields.io/badge/-HTML5-0C0032?style=for-the-badge&logo=HTML5" />
+  <img src="https://img.shields.io/badge/CSS-0C0032?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Javascript-0C0032?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Typescript-0C0032?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0C0032?style=for-the-badge&logo=Tailwind%20CSS" />
+  <img src="https://img.shields.io/badge/Nuxt-0C0032?style=for-the-badge&logo=Nuxt.js" />
+  <img src="https://img.shields.io/badge/Vue-0C0032?style=for-the-badge&logo=Vue.js" />
+  <img src="https://img.shields.io/badge/React-0C0032?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Font%20Awesome-0C0032?style=for-the-badge&logo=Font%20Awesome" />
+  <img src="https://img.shields.io/badge/Github-0C0032?style=for-the-badge&logo=Github" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm" />
-  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=Mongodb" />
-  <img src="https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop" />
-  <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" />
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python" />
+  <img src="https://img.shields.io/badge/NPM-0C0032?style=for-the-badge&logo=npm" />
+  <img src="https://img.shields.io/badge/MongoDB-0C0032?style=for-the-badge&logo=Mongodb" />
+  <img src="https://img.shields.io/badge/Photoshop-0C0032?style=for-the-badge&logo=Adobe%20Photoshop" />
+  <img src="https://img.shields.io/badge/Windows-0C0032?style=for-the-badge&logo=Windows" />
+  <img src="https://img.shields.io/badge/Python-0C0032?style=for-the-badge&logo=Python" />
  </p>
 </details>
 <br><br><hr>
