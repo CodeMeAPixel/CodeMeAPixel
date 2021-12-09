@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋</h1>
-<h3 align="center">I'm **Toxic Dev** but most people just call me <strong>Tyler</strong>, </h3>
+<h3 align="center">I'm <strong>Toxic Dev</strong> but most people just call me <strong>Tyler</strong>, </h3>
 
 <p align="center">
   <a href="https://github.com/TheRealToxicDev">
