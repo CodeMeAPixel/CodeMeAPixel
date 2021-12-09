@@ -59,6 +59,8 @@
   <img src="https://img.shields.io/badge/Netlify-0C0032?style=for-the-badge&logo=Netlify" />
   <img src="https://img.shields.io/badge/Vercel-0C0032?style=for-the-badge&logo=Vercel" />
   <img src="https://img.shields.io/badge/Railway-0C0032?style=for-the-badge&logo=Railway" />
+  <img src="https://img.shields.io/badge/Blender-0C0032?style=for-the-badge&logo=Blender" />
+  <img src="https://img.shields.io/badge/After%20Effects-0C0032?style=for-the-badge&logo=After%20Effects" />
  </p>
 </details>
 
