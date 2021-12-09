@@ -98,6 +98,7 @@
   You start with a blank canvas and certain basic raw materials. 
   You use a combination of science, art, and craft to determine what to do with them.
 </code>
+<br />
 2. <code>
     Testing leads to failure, and failure leads to understanding.
   </code>
