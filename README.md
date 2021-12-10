@@ -100,7 +100,7 @@
 <hr />
 
 <h3>👨‍💻 Active Projects</h3>
-<details>
+<details open>
   <summary>
     <code>💻</code> Currently Working On:
   </summary>
@@ -110,14 +110,14 @@
     - <a href="https://reviewbots.xyz">🤖 Review Bots</a>
   </p>
 </details>
-<details>
+<details open>
   <summary>
     <code>👨‍💻</code>Helping with/Developing:
   </summary>
   <p>
     - <a href="https://dscjobs.org">DscJobs</a>
     <br />
-    - <a href="https://paradisebots.net"> <img alt="Discord" title="Discord" height="32" width="32" src="https://paradisebots.net/images/ParadiseBotsLogo.png"> Paradise Bots</a>
+    - <a href="https://paradisebots.net"><img alt="Discord" title="Discord" height="22" width="22" src="https://paradisebots.net/images/ParadiseBotsLogo.png"> Paradise Bots</a>
   </p>
 </details>
 
