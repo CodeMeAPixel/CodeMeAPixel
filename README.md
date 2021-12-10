@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Twitter-TheRealToxicDev-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: TheRealToxicDev"/>
   </a>
   <a href="https://toxicdev.me/goodies">
-    <img src="https://img.shields.io/badge/Toxics-Goodies-%231DA1F2?logo=globe?logoColor=230C0032&style=flat-square" alt="A list of my Goodies (Click me)"/>
+    <img src="https://img.shields.io/badge/Toxics-Goodies-%231DA1F2?logo=globe?logoColor=230C0032&style=flat-square?labelColor=230C0032" alt="A list of my Goodies (Click me)"/>
   </a>
 </p>
 
