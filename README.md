@@ -107,12 +107,12 @@
   <p>
     - <a href="https://infinitybotlist.com"><img alt="Infinity Logo" title="Infinity Logo" height="15" width="15" src="https://cdn.infinitybots.xyz/images/png/Infin2.png"> Infinity Bot List</a>
     <br />
-    - <a href="https://reviewbots.xyz">🤖 Review Bots</a>
+    - <a href="https://reviewbots.xyz"><img alt="Review Bots Logo" title="Review Bots Logo" height="15" width="15" src="https://reviewbots.xyz/static/assets/imgs/rb_new.png"> Review Bots</a>
   </p>
 </details>
 <details open>
   <summary>
-    <code>👨‍💻</code>Helping with/Developing:
+    <code>👨‍💻</code> Helping with/Developing:
   </summary>
   <p>
     - <a href="https://dscjobs.org"><img alt="DscJobs Logo" title="DscJobs Logo" height="15" width="15" src="https://media.discordapp.net/attachments/749321939197100133/917158586298286080/IMG_1566.png"> DscJobs</a>
