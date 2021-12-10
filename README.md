@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=TheRealToxicDev&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
   <a href="https://discord.com/users/510065483693817867">
-    <img src="https://img.shields.io/badge/Toxic Dev%235936-%230C0032?logo=discord&style=flat-square" alt="Discord: Toxic Dev#5936"/>
+    <img src="https://img.shields.io/badge/Discord-Toxic Dev%235936-%230C0032?logo=discord&style=flat-square" alt="Discord: Toxic Dev#5936"/>
   </a>
   <a href="https://twitter.com/TheRealToxicDev">
     <img src="https://img.shields.io/badge/Twitter-TheRealToxicDev-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: TheRealToxicDev"/>
