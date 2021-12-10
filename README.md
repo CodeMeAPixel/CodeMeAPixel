@@ -105,7 +105,7 @@
     <code>💻</code> Currently Working On:
   </summary>
   <p>
-    - <a href="https://infinitybotlist.com">♾️ Infinity Bot List</a>
+    - <a href="https://infinitybotlist.com"><img alt="Infinity Logo" title="Infinity Logo" height="15" width="15" src="https://cdn.infinitybots.xyz/images/png/Infin2.png"> Infinity Bot List</a>
     <br />
     - <a href="https://reviewbots.xyz">🤖 Review Bots</a>
   </p>
@@ -117,7 +117,7 @@
   <p>
     - <a href="https://dscjobs.org">DscJobs</a>
     <br />
-      <a href="https://paradisebots.net"><img alt="Paradise Logo" title="Paradise Logo" height="25" width="25" src="https://paradisebots.net/images/ParadiseBotsLogo.png"> Paradise Bots</a>
+      - <a href="https://paradisebots.net"><img alt="Paradise Logo" title="Paradise Logo" height="15" width="15" src="https://paradisebots.net/images/ParadiseBotsLogo.png"> Paradise Bots</a>
   </p>
 </details>
 
