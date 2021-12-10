@@ -15,6 +15,9 @@
   <a href="https://twitter.com/TheRealToxicDev">
     <img src="https://img.shields.io/badge/Twitter-TheRealToxicDev-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: TheRealToxicDev"/>
   </a>
+  <a href="https://toxicdev.me/goodies">
+    <img src="https://img.shields.io/badge/Toxics-Goodies-%231DA1F2?logo=globe&style=flat-square" alt="Twitter: TheRealToxicDev"/>
+  </a>
 </p>
 
 <hr />
