@@ -115,7 +115,7 @@
     <code>👨‍💻</code>Helping with/Developing:
   </summary>
   <p>
-    - <a href="https://dscjobs.org">DscJobs</a>
+    - <a href="https://dscjobs.org"><img alt="DscJobs Logo" title="DscJobs Logo" height="15" width="15" src="https://media.discordapp.net/attachments/749321939197100133/917158586298286080/IMG_1566.png"> DscJobs</a>
     <br />
       - <a href="https://paradisebots.net"><img alt="Paradise Logo" title="Paradise Logo" height="15" width="15" src="https://paradisebots.net/images/ParadiseBotsLogo.png"> Paradise Bots</a>
   </p>
