@@ -100,11 +100,26 @@
 <hr />
 
 <h3>👨‍💻 Active Projects</h3>
-<p>
-  - <code>💻</code> I am currently working on: <a href="https://infinitybotlist.com">♾️ Infinity Bot List</a> and <a href="https://reviewbots.xyz">🤖 Review Bots</a>
-  <br />
-  - <code>👨‍💻</code> I am currently helping develop: <a href="https://dscjobs.org">DscJobs</a> and <a href="https://paradisebots.net">Paradise Bots</a>
-</p>
+<details>
+  <summary>
+    <code>💻</code> Currently Working On:
+  </summary>
+  <p>
+    - <a href="https://infinitybotlist.com">♾️ Infinity Bot List</a>
+    <br />
+    - <a href="https://reviewbots.xyz">🤖 Review Bots</a>
+  </p>
+</details>
+<details>
+  <summary>
+    <code>👨‍💻</code>Helping with/Developing:
+  </summary>
+  <p>
+    - <a href="https://dscjobs.org">DscJobs</a>
+    <br />
+    - <a href="https://paradisebots.net">Paradise Bots</a>
+  </p>
+</details>
 
 <hr />
 
