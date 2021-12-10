@@ -117,7 +117,7 @@
   <p>
     - <a href="https://dscjobs.org">DscJobs</a>
     <br />
-    - <a href="https://paradisebots.net">Paradise Bots</a>
+    - <a href="https://paradisebots.net"> <img alt="Discord" title="Discord" height="32" width="32" src="https://paradisebots.net/images/ParadiseBotsLogo.png"> Paradise Bots</a>
   </p>
 </details>
 
