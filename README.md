@@ -31,6 +31,9 @@
 
 <hr />
 
+<h2>My Resume/CV</h2>
+- https://cv.toxicdev.me
+
 <h2>🛠 <b>My Skillset</b></h2>
 <details>
 <summary>Click to view my Skillset!</summary>
