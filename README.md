@@ -32,7 +32,7 @@
 <hr />
 
 <h2>Curriculum Vitae</h2>
-- https://cv.toxicdev.me
+- https://cv.toxicdev.me (Updating Soon)
 
 <hr />
 
