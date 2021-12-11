@@ -31,7 +31,7 @@
 
 <hr />
 
-<h2>My Resume/CV</h2>
+<h2>Curriculum Vitae</h2>
 - https://cv.toxicdev.me
 
 <hr />
