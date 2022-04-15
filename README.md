@@ -121,8 +121,6 @@
   </summary>
   <p>
     - <a href="https://dscjobs.org"><img alt="DscJobs Logo" title="DscJobs Logo" height="15" width="15" src="https://media.discordapp.net/attachments/653733403841134600/919061597970903130/IMG_1661.png"> DscJobs</a>
-    <br />
-      - <a href="https://paradisebots.net"><img alt="Paradise Logo" title="Paradise Logo" height="15" width="15" src="https://paradisebots.net/images/ParadiseBotsLogo.png"> Paradise Bots</a>
   </p>
 </details>
 
