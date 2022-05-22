@@ -115,12 +115,11 @@
     - <a href="https://reviewbots.xyz"><img alt="Review Bots Logo" title="Review Bots Logo" height="15" width="15" src="https://reviewbots.xyz/static/assets/imgs/rb_new.png"> Review Bots</a>
     <br />
     - <a href="https://linkcord.bio"><img alt="Review Bots Logo" title="Link Cord Logo" height="15" width="15" src="https://linkcord.bio/ShortBio.webp"> Link Cord </a>
-
   </p>
 </details>
 <details open>
   <summary>
-    <code>👨‍💻</code> Helping with/Developing:
+    <code>👨‍💻</code> I Also Develop or Own:
   </summary>
   <p>
     - <a href="https://dscjobs.org"><img alt="DscJobs Logo" title="DscJobs Logo" height="15" width="15" src="https://media.discordapp.net/attachments/653733403841134600/919061597970903130/IMG_1661.png"> DscJobs</a>
