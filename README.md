@@ -113,6 +113,9 @@
     - <a href="https://infinitybotlist.com"><img alt="Infinity Logo" title="Infinity Logo" height="15" width="15" src="https://cdn.infinitybots.xyz/images/png/Infin2.png"> Infinity Bot List</a>
     <br />
     - <a href="https://reviewbots.xyz"><img alt="Review Bots Logo" title="Review Bots Logo" height="15" width="15" src="https://reviewbots.xyz/static/assets/imgs/rb_new.png"> Review Bots</a>
+    <br />
+    - <a href="https://linkcord.bio"><img alt="Review Bots Logo" title="Link Cord Logo" height="15" width="15" src="https://linkcord.bio/ShortBio.webp"> Link Cord </a>
+
   </p>
 </details>
 <details open>
