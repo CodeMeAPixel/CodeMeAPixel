@@ -14,7 +14,23 @@
 <hr />
 
 <details>
-    <summary>💌 Contact Me</summary>
+    <summary>Contact Me</summary>
+    <div>
+        <samp>
+            <h2 align="center">💌 You can contact me at:</h2>
+            <p align="center">
+                <a href="https://www.linkedin.com/in/therealtoxicdev" target="blank">
+                    <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+                </a>
+            </p>
+        </samp>
+    </div>
+</details>
+
+<hr />
+
+<details>
+    <summary>My Discord</summary>
     <div>
         <samp>
             <h2 align="center">😎 you can reach me at:</h2>
@@ -26,8 +42,6 @@
         </samp>
     </div>
 </details>
-
-<br />
 
 <p align="center">
   <a href="https://discord.com/users/510065483693817867">
