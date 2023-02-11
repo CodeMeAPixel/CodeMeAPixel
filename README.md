@@ -44,3 +44,22 @@
 </details>
 
 <hr />
+
+<details>
+  <summary>💻 GitHub Statistics</summary>
+    <div>
+        <h2 align="center">📊 They might be bad!</h2>
+        <br />
+        <p align="center">
+            <a href="https://github.com/TheRealToxicDev">
+                <img src="https://github-readme-streak-stats.herokuapp.com?user=TheRealToxicDev&theme=dark&hide_border=true&border_radius=10" />
+            </a>
+        </p>
+        <p align="center">
+            <a href="https://github.com/TheRealToxicDev">
+                <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=TheRealToxicDev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+                <img width="49.5%" src="https://github-readme-activity-graph.cyclic.app/graph?username=TheRealToxicDev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+            </a>
+        </p>
+    </div>
+</details>
