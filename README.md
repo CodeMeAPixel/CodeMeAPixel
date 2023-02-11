@@ -5,20 +5,11 @@
       and also well Experienced with all stages of the development cycle for dynamic web projects. </h4>
 </div>
 
-<p align="center">
-  <a href="https://github.com/TheRealToxicDev">
-    <img src="https://komarev.com/ghpvc/?username=TheRealToxicDev&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
-  </a>
-  <a href="https://discord.com/users/510065483693817867">
-    <img src="https://img.shields.io/badge/Discord-Toxic Dev%235936-%230C0032?logo=discord&style=flat-square" alt="Discord: Toxic Dev#5936"/>
-  </a>
-  <a href="https://twitter.com/TheRealToxicDev">
-    <img src="https://img.shields.io/badge/Twitter-TheRealToxicDev-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: TheRealToxicDev"/>
-  </a>
-  <a href="https://toxicdev.me/goodies">
-    <img src="https://img.shields.io/badge/Goodies-Click%20Me-%230C0032?logo=file&style=flat-square" alt="Twitter: TheRealToxicDev"/>
-  </a>
-</p>
+<div align="center">
+    <a href="https://toxicdev.me">
+        <img src="https://github.com/JanjyTapYT/JanjyTapYT/blob/main/resources/img/grid-snake.svg" alt="snake" />
+    </a>
+</div>
 
 <hr />
 
