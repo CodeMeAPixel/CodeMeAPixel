@@ -70,7 +70,17 @@
     <summary>👨‍💻 Tech Stack</summary>
     <div>
         <h2 align="center"> ⚙️ Technologies I use </h2>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,tailwindcss,nextjs,react,github,mongodb,github,linkedin,nodejs,git,express,vue,python,linux,gatsby,heroku,java,aftereffects,&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,tailwindcss,nextjs,react,github,mongodb,github,linkedin,nodejs,git,express,vue,python,linux,gatsby,heroku,java,aftereffects,angular,atom,bash,blender,bootstrap,c,cmake,cpp,cs,css,cloudflare,codepen,devto,discord,discordbots,docker,dotnet,figma,firebase,git,gitlab,github,golang,graphql,html,kotlin,laravel,lua,markdown,materialui,mysql,netlify,nginx,node,nuxtjs,php,photoshop,postgresql,powershell,redis,redux,regex,ruby,sentry,sequelize,supabase,twitter,typescript,unity,unrealengine,vscode,vercel,visualstudio,webflow,webassembly,webpack&theme=dark" />
     </div>
 </details>
+
+<hr />
+
+<details>
+  <summary>📈 Latest Activity Graph</summary>
+  <br/>
+  <h2 align="center">👇 latest contribution(s)</h2>
+    <a href="https://github.com/TheRealToxicDev/"><img alt="JanjyTapYT's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=TheRealToxicDev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</details>
+
 
