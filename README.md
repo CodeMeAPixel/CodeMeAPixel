@@ -70,7 +70,7 @@
     <summary>👨‍💻 Tech Stack</summary>
     <div>
         <h2 align="center"> ⚙️ Technologies I use </h2>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,tailwindcss,nextjs,react,github,mongodb,github,linkedin,nodejs,git,express,vue,python,linux&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,tailwindcss,nextjs,react,github,mongodb,github,linkedin,nodejs,git,express,vue,python,linux,gatsby,heroku,java,sql,&theme=dark" />
     </div>
 </details>
 
