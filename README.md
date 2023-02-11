@@ -20,7 +20,16 @@
             <h2 align="center">💌 You can contact me at:</h2>
             <p align="center">
                 <a href="https://www.linkedin.com/in/therealtoxicdev" target="blank">
-                    <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+                    <img src="https://img.shields.io/badge/linkedin-%833AB4.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+                </a>
+                <a href="https://twitter.com/therealtoxicdev" target="blank">
+                    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" height="30" />
+                </a>
+                <a href="https://instagram.com/therealtoxicdev" target="blank">
+                    <img src="https://img.shields.io/badge/instagram-%C13584.svg?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
+                </a>
+                <a href="https://ko-fi.com/therealtoxicdev" target="blank">
+                    <img src="https://img.shields.io/badge/kofi-%231DA1F2.svg?style=for-the-badge&logo=kofi&logoColor=white" height="30" />
                 </a>
             </p>
         </samp>
