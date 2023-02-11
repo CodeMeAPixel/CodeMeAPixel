@@ -31,6 +31,9 @@
                 <a href="https://ko-fi.com/therealtoxicdev" target="blank">
                     <img src="https://img.shields.io/badge/kofi-%231DA1F2.svg?style=for-the-badge&logo=kofi&logoColor=white" height="30" />
                 </a>
+                <a href="https://toxicdev.me" target="blank">
+                    <img src="https://img.shields.io/badge/my_website-%215d6e.svg?style=for-the-badge&logo=http&logoColor=white" height="30" />
+                </a>
             </p>
         </samp>
     </div>
