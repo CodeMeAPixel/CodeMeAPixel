@@ -11,6 +11,11 @@
     </a>
 </div>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/TheRealToxicDev/count.svg" />
+</p>
+
 <hr />
 
 <h2>😄 Pronouns</h2>
