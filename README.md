@@ -42,10 +42,10 @@
     <summary>My Discord</summary>
     <div>
         <samp>
-            <h2 align="center">😎 you can reach me at:</h2>
+            <h2 align="center">My discord profile:</h2>
             <p align="center">
-                <a href="https://www.linkedin.com/in/zaid-hafeez-7084b0149/" target="blank">
-                    <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+                <a href="https://discord.com/users/510065483693817867">
+                  <img src="https://lanyard-profile-readme.vercel.app/api/510065483693817867?bg=0C0032" alt="Discord Profile"/>
                 </a>
             </p>
         </samp>
