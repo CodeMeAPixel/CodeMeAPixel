@@ -79,7 +79,7 @@
     <summary>👨‍💻 Tech Stack</summary>
     <div>
         <h2 align="center"> ⚙️ Technologies I use </h2>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,tailwindcss,nextjs,react,github,mongodb,github,linkedin,nodejs,git,express,vue,python,linux,gatsby,heroku,java,aftereffects,angular,atom,bash,blender,bootstrap,c,cmake,cpp,cs,css,cloudflare,codepen,devto,discord,discordbots,docker,dotnet,figma,firebase,git,gitlab,github,golang,graphql,html,kotlin,laravel,lua,markdown,materialui,mysql,netlify,nginx,nodejs,nuxtjs,php,photoshop,postgresql,powershell,redis,redux,regex,ruby,sentry,sequelize,supabase,twitter,typescript,unity,unrealengine,vscode,vercel,visualstudio,webflow,webassembly,webpack&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,tailwindcss,nextjs,react,github,mongodb,github,linkedin,nodejs,git,express,vue,python,linux,gatsby,heroku,java,aftereffects,angular,atom,bash,blender,bootstrap,c,cmake,cpp,cs,css,cloudflare,codepen,devto,discord,discordbots,docker,dotnet,figma,firebase,git,gitlab,github,golang,graphql,html,kotlin,laravel,lua,markdown,materialui,mysql,netlify,nginx,nuxtjs,php,photoshop,postgresql,powershell,redis,redux,regex,ruby,sentry,sequelize,supabase,twitter,typescript,unity,unrealengine,vscode,vercel,visualstudio,webflow,webassembly,webpack&theme=dark" />
     </div>
 </details>
 
