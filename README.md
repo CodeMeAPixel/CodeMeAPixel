@@ -79,6 +79,21 @@
 <hr />
 
 <details>
+  <summary>💻 Coders Rank Statistics</summary>
+    <div>
+        <h2 align="center">📊 Are they bad?</h2>
+        <br />
+        <p align="center">
+            <a href="https://profile.codersrank.io/user/therealtoxicdev">
+                <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=therealtoxicdev" />
+            </a>
+        </p>
+    </div>
+</details>
+
+<hr />
+
+<details>
     <summary>👨‍💻 Tech Stack</summary>
     <div>
         <h2 align="center"> ⚙️ Technologies I use </h2>
