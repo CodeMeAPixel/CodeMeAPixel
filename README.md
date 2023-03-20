@@ -1,6 +1,7 @@
 <div align="center">
     <h1 align="center">Hello! 👋</h1>
     <h4 align="center">I'm <strong>Toxic Dev</strong> but most people just call me <strong>Tyler</strong>. 
+        <br />
       I'm a curious by nature Full-Stack Software Developer and father of three who's always aiming for improvement!</h4>
 </div>
 
