@@ -1,8 +1,7 @@
 <div align="center">
     <h1 align="center">Hello! 👋</h1>
     <h4 align="center">I'm <strong>Toxic Dev</strong> but most people just call me <strong>Tyler</strong>. 
-      I am a Senior Software Developer specializing in Discord Bot Development. A Web Developer specializing in front end development. 
-      and also well Experienced with all stages of the development cycle for dynamic web projects. </h4>
+      I'm a curious by nature Full-Stack Software Developer and father of three who's always aiming for improvement!</h4>
 </div>
 
 <div align="center">
