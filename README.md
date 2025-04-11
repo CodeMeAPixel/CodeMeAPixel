@@ -23,16 +23,16 @@
       <a href="https://www.linkedin.com/in/therealtoxicdev" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
       </a>
-      <a href="https://twitter.com/therealtoxicdev" target="_blank">
+      <a href="https://twitter.com/codemeapixel" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" height="30" />
       </a>
-      <a href="https://instagram.com/therealtoxicdev" target="_blank">
+      <a href="https://instagram.com/codemeapixel" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
       </a>
       <a href="https://ko-fi.com/therealtoxicdev" target="_blank">
         <img src="https://img.shields.io/badge/Ko--fi-%23F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white" height="30" />
       </a>
-      <a href="https://toxicdev.me" target="_blank">
+      <a href="https://codemeapixel.dev" target="_blank">
         <img src="https://img.shields.io/badge/My%20Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" height="30" />
       </a>
     </p>
@@ -57,13 +57,13 @@
   <summary>📈 GitHub Stats</summary>
   <div align="center">
     <h2>My GitHub Activity</h2>
-    <a href="https://github.com/TheRealToxicDev">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=TheRealToxicDev&theme=dark&hide_border=true&border_radius=10" />
+    <a href="https://github.com/CodeMeAPixel">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeMeAPixel&theme=dark&hide_border=true&border_radius=10" />
     </a>
     <br /><br />
-    <a href="https://github.com/TheRealToxicDev">
-      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=TheRealToxicDev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-      <img width="49.5%" src="https://github-readme-activity-graph.cyclic.app/graph?username=TheRealToxicDev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+    <a href="https://github.com/CodeMeAPixel">
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=CodeMeAPixel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+      <img width="49.5%" src="https://github-readme-activity-graph.cyclic.app/graph?username=CodeMeAPixel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
     </a>
   </div>
 </details>
