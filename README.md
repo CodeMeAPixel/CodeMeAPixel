@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://toxicdev.me">
-    <img src="https://github.com/TheRealToxicDev/TheRealToxicDev/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+    <img src="https://github.com/CodeMeAPixel/CodeMeAPixel/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
   </a>
 </div>
 
