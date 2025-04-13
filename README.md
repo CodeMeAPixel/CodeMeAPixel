@@ -74,8 +74,8 @@
   <summary>🧠 CodersRank Stats</summary>
   <div align="center">
     <h2>See how I’m growing:</h2>
-    <a href="https://profile.codersrank.io/user/therealtoxicdev">
-      <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=therealtoxicdev" />
+    <a href="https://profile.codersrank.io/user/codemeapixel">
+      <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=codemeapixel" />
     </a>
   </div>
 </details>
