@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="https://toxicdev.me">
+  <a href="https://codemeapixel.dev">
     <img src="https://github.com/CodeMeAPixel/CodeMeAPixel/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
   </a>
 </div>
@@ -20,7 +20,7 @@
   <div align="center">
     <h2>💌 You can reach me at:</h2>
     <p>
-      <a href="https://www.linkedin.com/in/therealtoxicdev" target="_blank">
+      <a href="https://www.linkedin.com/in/codemeapixel" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
       </a>
       <a href="https://twitter.com/codemeapixel" target="_blank">
@@ -29,7 +29,7 @@
       <a href="https://instagram.com/codemeapixel" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
       </a>
-      <a href="https://ko-fi.com/therealtoxicdev" target="_blank">
+      <a href="https://ko-fi.com/codemeapixel" target="_blank">
         <img src="https://img.shields.io/badge/Ko--fi-%23F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white" height="30" />
       </a>
       <a href="https://codemeapixel.dev" target="_blank">
