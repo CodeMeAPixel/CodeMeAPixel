@@ -10,8 +10,8 @@
 ---
 
 ## 💫 About Me
-- 🔭 I’m currently working on **Emberly**
 - 🌱 I’m currently learning **Tauri**
+- 🔭 I’m currently working on **Emberly**
 - ⚡ Fun fact: **When life hands you lemons, make lemonade.** 🙃
 - 💬 Ask me about: Full stack architecture, coffee, clean code, and UI/UX.
 
@@ -30,15 +30,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeMeAPixel&theme=dark&hide_border=true&border_radius=10" alt="Streak Stats" />
-  <br />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodeMeAPixel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-activity-graph.cyclic.app/graph?username=CodeMeAPixel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</div>
-
----
 
 <details>
   <summary>📬 Contact & Socials</summary>
