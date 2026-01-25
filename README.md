@@ -1,10 +1,6 @@
 <div align="center">
   <h1>Hey there! I'm Tyler 👋</h1>
-  <p><strong>Full-Stack Developer | Creative Coder | @CodeMeAPixel</strong></p>
-  
-  <a href="https://codemeapixel.dev">
-    <img src="https://github.com/CodeMeAPixel/CodeMeAPixel/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-  </a>
+  <p><strong>∘₊✧─ Software Engineer/SysAdmin ─✧₊∘</strong></p>
 </div>
 
 ---
@@ -18,6 +14,10 @@
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=codemeapixel&theme=dracula&count_private=true)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codemeapixel&theme=dracula&count_private=true)
+
+<a href="https://codemeapixel.dev">
+    <img src="https://github.com/CodeMeAPixel/CodeMeAPixel/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  </a>
 
 ---
 
