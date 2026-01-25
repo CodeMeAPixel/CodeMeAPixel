@@ -10,11 +10,11 @@
   <summary>Learn more about me :eyes:</summary>
   
    ## Professional Experience
-   - :tools: **Lead Developer & COO** at [NodeByte](https://nodebyte.host) — Building next-gen hosting solutions
-   - :test_tube: **SysAdmin** for [Purrquinox](https://purrquinox.com) — Infrastructure & system optimization
-   - :telescope: **Core Contributor** to [Emberly](https://github.com/EmberlyOSS) — Open-source excellence
-   - :briefcase: **10+ Years** of full-stack development experience
+   - :tools: **Lead Developer & COO** at [NodeByte](https://nodebyte.host)
+   - :test_tube: **SysAdmin** for [Purrquinox](https://purrquinox.com)
+   - :telescope: **Core Contributor** to [Emberly](https://github.com/EmberlyOSS)
    - :chart_with_upwards_trend: **50+ Projects** completed across various industries
+   - :briefcase: **10+ Years** of full-stack development experience
 
    ## My Expertise
    - :speech_balloon: **Full stack architecture**, clean code, pixel-perfect UI/UX design
