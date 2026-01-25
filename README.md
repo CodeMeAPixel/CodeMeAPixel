@@ -10,7 +10,7 @@
   <summary>Learn more about me :eyes:</summary>
   
    ## Professional Experience
-   - :tools: **Lead Developer & COO** at [NodeByte](https://nodebyte.host)
+   - 🛠️ **Lead Developer & COO** at [NodeByte](https://nodebyte.host)
    - :test_tube: **SysAdmin** for [Purrquinox](https://purrquinox.com)
    - :telescope: **Core Contributor** to [Emberly](https://github.com/EmberlyOSS)
    - :chart_with_upwards_trend: **50+ Projects** completed across various industries
