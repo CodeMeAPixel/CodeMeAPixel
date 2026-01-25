@@ -15,6 +15,10 @@
 - ⚡ Fun fact: **When life hands you lemons, make lemonade.** 🙃
 - 💬 Ask me about: Full stack architecture, coffee, clean code, and UI/UX.
 
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=codemeapixel&theme=dracula&count_private=true)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codemeapixel&theme=dracula&count_private=true)
+
 ---
 
 ## 🛠️ Tech Stack
