@@ -42,7 +42,7 @@
 
    ---
 
-   ## :tools: Tech Stack & Tools
+   ## 🛠️ Tech Stack & Tools
 
    ### Frontend & UI/UX
 
