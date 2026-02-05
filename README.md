@@ -78,7 +78,8 @@
    [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Vv2bdC44Ge)
    [![Ko-fi](https://img.shields.io/badge/Support%20Me-%23FF5E78.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/codemeapixel)
 
-   **Based in Canada 🍁 | Available for Remote Work & Collaborations**
+   - **Based in Canada 🇨🇦**
+   - **Available for Remote Work & Collaborations**
 
    </div>
 </details>
