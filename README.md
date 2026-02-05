@@ -10,18 +10,18 @@
   <summary>Learn more about me :eyes:</summary>
   
    ## Professional Experience
-   - 🛠️ **Lead Developer & COO** at [NodeByte](https://nodebyte.host)
-   - :test_tube: **SysAdmin** for [Purrquinox](https://purrquinox.com)
-   - :telescope: **Core Contributor** to [Emberly](https://github.com/EmberlyOSS)
-   - :chart_with_upwards_trend: **50+ Projects** completed across various industries
-   - :briefcase: **10+ Years** of full-stack development experience
+   - **Creator** of [Emberly](https://github.com/EmberlyOSS)
+   - **Lead Developer & COO** at [NodeByte](https://nodebyte.host)
+   - **SysAdmin** for [Purrquinox](https://purrquinox.com)
+   - **50+ Projects** completed across various industries
+   - **10+ Years** of full-stack development experience
 
    ## My Expertise
-   - :speech_balloon: **Full stack architecture**, clean code, pixel-perfect UI/UX design
-   - :rocket: Cloud infrastructure, performance optimization, system design
-   - :seedling: Currently exploring **Tauri** for cross-platform desktop applications
-   - :coffee: Ask me about coffee, DevOps practices, and building scalable systems
-   - :zap: Fun fact: I spend as much time optimizing server configs as I do drinking coffee ☕
+   - **Full stack architecture**, clean code, pixel-perfect UI/UX design
+   - Cloud infrastructure, performance optimization, system design
+   - Currently exploring **Tauri** for cross-platform desktop applications
+   - Ask me about coffee, DevOps practices, and building scalable systems
+   - Fun fact: I spend as much time optimizing server configs as I do drinking coffee ☕
 
    ---
 
