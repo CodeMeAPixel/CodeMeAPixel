@@ -14,7 +14,6 @@
    - **Lead Developer & COO** at [NodeByte](https://nodebyte.host)
    - **SysAdmin** for [Purrquinox](https://purrquinox.com)
    - **50+ Projects** completed across various industries
-   - **10+ Years** of full-stack development experience
 
    ## My Expertise
    - **Full stack architecture**, clean code, pixel-perfect UI/UX design
