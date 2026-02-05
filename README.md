@@ -6,7 +6,7 @@
 ---
 
 <details>
-  <summary>Learn more about me (click me :eyes:)</summary>
+  <summary>Learn more about me (click/press here :eyes:)</summary>
   
    ## Professional Experience
    - **Creator** of [Emberly](https://github.com/EmberlyOSS)
