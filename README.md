@@ -9,7 +9,15 @@ A passionate Software Engineer crafting beautiful, functional digital experience
 
 ![FixFX](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=fixfxwiki&repo=fixfx&theme=dracula)
 
+![FixFXCore](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=fixfxwiki&repo=fixfx-core&theme=dracula)
+
 ![Emberly](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=emberlyoss&repo=flicker&theme=dracula)
+
+![LighthouseDark](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codemeapixel&repo=lighthousedark&theme=dracula)
+
+![Lexicon](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codemeapixel&repo=lexi&theme=dracula)
+
+
 
 ## 🧑‍💻 Current Side Quests
 
