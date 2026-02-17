@@ -1,12 +1,9 @@
 <div align="center">
   <h1>Hey there, I'm Tyler :wave:</h1>
-  <p><i>A passionate Software Engineer crafting beautiful, functional digital experiences with with over a decade of coffee fuelled expertise. From startups to enterprise solutions, I bring ideas to life with thoughtful design and solid engineering.</i></p>
+  <p><i>A passionate Software Engineer crafting beautiful, functional digital experiences with with over a decade of coffee fuelled expertise.</i></p>
 </div>
 
 ---
-
-<details>
-  <summary>Learn more about me (click/press here :eyes:)</summary>
   
    ## Professional Experience
    - **Creator** of [Emberly](https://github.com/EmberlyOSS)
@@ -81,4 +78,3 @@
       Proudly Based in Canada 🇨🇦
 
    </div>
-</details>
