@@ -4,14 +4,14 @@
 </div>
 
 ---
-  
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codemeapixel&theme=dracula&count_private=true&show_icons=true" alt="github stats" height="175" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codemeapixel&theme=dracula&layout=compact" alt="Top Langs" height="175" />
-</div>
-<br />
-<div align="center">
-  <a href="https://codemeapixel.dev">
-    <img src="https://github.com/CodeMeAPixel/CodeMeAPixel/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-  </a>
-</div>
+
+### 📊 Case Files & Investigations
+
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=codemeapixel&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codemeapixel&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codemeapixel&theme=tokyonight)
+
+
+---
