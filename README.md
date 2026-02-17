@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there, I'm Tyler :wave:</h1>
-  <p><i>A passionate Software Engineer crafting beautiful, functional digital experiences with with over a decade of coffee fuelled expertise.</i></p>
+  <p><i>A passionate Software Engineer crafting beautiful, functional digital experiences with with over a decade of coffee fueled expertise.</i></p>
 </div>
 
 ---
