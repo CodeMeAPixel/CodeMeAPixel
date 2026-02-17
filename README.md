@@ -3,13 +3,31 @@ A passionate Software Engineer crafting beautiful, functional digital experience
 
 ---
 
-### 📊 Case Files & Investigations
+## 🫡 Actively Building
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=codemeapixel&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Cadence](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=trycadence&repo=cadence&theme=dracula)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codemeapixel&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![FixFX](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=fixfxwiki&repo=fixfx&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codemeapixel&theme=tokyonight)
+![Emberly](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=emberlyoss&repo=website&theme=dracula)
+
+## 🧑‍💻 Current Side Quests
+
+![cfxstat.us](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codemeapixel&repo=cfxstat.us&theme=dracula)
+
+![pxBlipCreator](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codemeapixel&repo=pxBlipCreator&theme=dracula)
+
+![pxCommands](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codemeapixel&repo=pxCommands&theme=dracula)
+
+![pxLogger](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codemeapixel&repo=pxLogger&theme=dracula)
+
+## 📊 My Development History
+
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=codemeapixel&theme=dracula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codemeapixel&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codemeapixel&theme=dracula)
 
 
 ---
