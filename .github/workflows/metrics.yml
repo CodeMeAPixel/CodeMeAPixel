@@ -26,17 +26,6 @@ jobs:
           plugin_calendar: no
           plugin_isocalendar: no
           plugin_isocalendar_duration: full-year
-          plugin_languages: no
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming, data
-          plugin_languages_colors: github
-          plugin_languages_limit: 0
-          plugin_languages_recent_categories: markup, programming, data
-          plugin_languages_recent_days: 365
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_threshold: 0%
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
