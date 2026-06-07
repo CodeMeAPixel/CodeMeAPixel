@@ -23,7 +23,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Edmonton
-          plugin_calendar: no
           plugin_isocalendar: no
           plugin_isocalendar_duration: full-year
           plugin_notable: yes
